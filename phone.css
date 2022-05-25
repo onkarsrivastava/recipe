@@ -1,0 +1,43 @@
+/* body{
+    background-color: red;
+} */
+
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+
+
+/* home */
+#home{
+    height: 0px;
+    padding:3px 60px;
+
+}
+#home::before{
+    height:480px;
+}
+#home p{
+    font-size: 13px;
+}
+
+/* services */
+#services{
+    flex-direction: column;
+
+}
+
+
+/* client */
+
+
+/* contact us  */
+
+
+/* footer  */
+
+/* utility classes */
+.h-primary{
+    font: size 10px ;
+}
+
